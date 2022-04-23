@@ -2,7 +2,10 @@
 
 It's a dataset presented in paper "WikiMulti: a Corpus for Cross-Lingual Summarization" 
 
-[Link](https://drive.google.com/uc?id=1XImihELCfFKG0c0Pyvlg8EwyEnzj2QmJ) to download the dataset.
+
+
+[Link](https://disk.yandex.ru/d/lAvfpr1VDEDmmw) to download the dataset.
+<!-- [Link](https://drive.google.com/uc?id=1XImihELCfFKG0c0Pyvlg8EwyEnzj2QmJ) to download the dataset. -->
 
 
 | **Category**                       | **Num of articles** | **Num of subcategories** |
